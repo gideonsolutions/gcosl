@@ -50,6 +50,14 @@ The restrictions exist because software is not neutral. Code that processes tran
 
 This is not a political statement. It is a structural decision about what kind of work this software will and will not do.
 
+## Derivative Licenses
+
+GCOSL encourages fellow Christians and like-minded organizations to build on this ethical foundation for their own software and businesses. With explicit written approval from Gideon Solutions LLC, you may create a derivative license based on GCOSL that names your own organization and adapts the commercial and jurisdictional terms to your context.
+
+The one non-negotiable requirement: **every prohibition in GCOSL must be preserved at full strength.** You may add new restrictions or strengthen existing ones, but you may never weaken, remove, or create exceptions to any prohibited use category. See Section 14 of the license for the full terms.
+
+To request approval for a Derivative License, contact Gideon Solutions LLC.
+
 ## Repository Contents
 
 | File | Purpose |

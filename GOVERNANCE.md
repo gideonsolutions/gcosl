@@ -42,9 +42,17 @@ The fact that a particular use was previously tolerated, overlooked, or not enfo
 
 ### 4. No Weakening by Fork
 
-If a third party forks a GCOSL-licensed project and removes or modifies the license terms, that fork is in violation of GCOSL. Derivative works must carry the same license, unmodified. A fork that strips restrictions is not a permitted derivative — it is a breach.
+If a third party forks a GCOSL-licensed project and removes or modifies the license terms, that fork is in violation of GCOSL. Derivative works of software must carry the same license, unmodified. A fork that strips restrictions is not a permitted derivative — it is a breach.
 
-### 5. Transparency of Changes
+### 5. Derivative Licenses Under Approval
+
+GCOSL permits the creation of derivative licenses — new license documents based on GCOSL — for use by other organizations in their own software. This is governed by Section 14 of the license and requires explicit written approval from Gideon Solutions LLC.
+
+The governing constraint is the mandatory prohibition floor: every prohibited use category in Section 4 must be preserved at full scope and strength in any Derivative License. Derivative licensors may add new prohibitions or strengthen existing ones, but may never weaken, remove, or create exceptions to any existing prohibition.
+
+Gideon Solutions LLC reviews all Derivative License applications and reserves the right to deny approval or revoke it if the conditions are violated. This process exists to encourage the broader Christian community to build on GCOSL's ethical foundation while ensuring that foundation is never compromised.
+
+### 6. Transparency of Changes
 
 All changes to GCOSL will be documented with:
 

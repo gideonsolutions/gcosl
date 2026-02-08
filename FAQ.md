@@ -118,7 +118,35 @@ Contribution policies are set by individual projects that use GCOSL, not by the 
 
 ### Can I relicense a derivative work?
 
-No. Derivative works must be distributed under GCOSL. You may not relicense GCOSL-licensed software or derivative works under a different license.
+No. Derivative works of GCOSL-licensed software must be distributed under GCOSL. You may not relicense GCOSL-licensed software or derivative works under a different license.
+
+---
+
+## Derivative Licenses
+
+### Can I create my own license based on GCOSL?
+
+Yes, but only with explicit written approval from Gideon Solutions LLC. GCOSL permits the creation of derivative licenses — new license documents that adapt GCOSL for your own organization and software. You must apply in writing and receive signed approval before creating or publishing a Derivative License.
+
+### What can I change in a Derivative License?
+
+You may replace "Gideon Solutions LLC" with your own organization's name in the commercial use and governance provisions. You may change the governing law and jurisdiction to your own. You may add new terms, conditions, or restrictions. You may choose your own license name, provided it does not use "Gideon," "Gideon Solutions," or "GCOSL" without permission.
+
+### What must stay the same?
+
+Every prohibited use category in Section 4 must be preserved at its full scope and strength. You may add new prohibitions or strengthen existing ones, but you may not remove, weaken, narrow, or create exceptions to any existing prohibition. A Derivative License that weakens any prohibition is invalid.
+
+### Why does this require Gideon's approval?
+
+Because the prohibitions in GCOSL represent non-negotiable moral commitments. The approval requirement ensures that every Derivative License maintains the full strength of those commitments. It is a safeguard against dilution, not a barrier to participation.
+
+### Can Gideon revoke my Derivative License?
+
+Yes, if you violate the conditions of your approval or publish a Derivative License that fails to comply with the mandatory prohibition floor. Revocation is communicated in writing. Software already distributed under a compliant Derivative License before revocation is not retroactively affected.
+
+### Do I need to attribute GCOSL?
+
+Yes. Every Derivative License must include a prominent attribution notice identifying GCOSL as the source and linking to the original repository.
 
 ---
 
