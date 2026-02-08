@@ -293,4 +293,4 @@ This License constitutes the entire agreement between the Licensor and You with 
 
 **Contact:** [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us)
 
-**Permaweb:** The canonical text of this license is permanently stored on the permaweb via [Arweave](https://arweave.org). Available on [ArDrive](https://app.ardrive.io/#/drives/7450f3ed-0bf7-4004-890a-12d4ed485a39?name=gcosl).
+**Permaweb:** The canonical text of this license is permanently stored on the permaweb via [Arweave](https://arweave.org). Available on [ArDrive](https://app.ardrive.io/#/drives/b30912b8-faad-4481-8834-23ef07aefa6a?name=gcosl).
