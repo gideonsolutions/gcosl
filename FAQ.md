@@ -122,6 +122,44 @@ No. Derivative works must be distributed under GCOSL. You may not relicense GCOS
 
 ---
 
+## Usury and Finance
+
+### Is all interest prohibited?
+
+Yes. GCOSL prohibits the use of the software to facilitate any lending arrangement that guarantees the lender a return on principal. This applies regardless of the interest rate — whether 1% or 30%, whether labeled "low-interest," "market-rate," or "microfinance." The prohibition is structural: if the lender is guaranteed a return and bears no risk of loss, the arrangement is prohibited.
+
+### Are banks allowed to use this?
+
+A bank or financial institution that uses GCOSL-licensed software to facilitate interest-bearing loans is in violation of the license. A bank or financial institution that uses the software exclusively for permitted activities — such as profit-sharing arrangements, equity participation, payment processing unrelated to interest-bearing lending, or other operations that do not involve prohibited uses — may use the software for those permitted purposes.
+
+The distinction is not the type of institution. It is the type of activity.
+
+### Is staking allowed?
+
+Yes, provided the staking mechanism involves genuine shared risk. Participation in blockchain validation, decentralized consensus protocols, or equivalent systems where the participant's capital is genuinely at risk and returns are not guaranteed is explicitly permitted under Section 4.11.2(e) of the license.
+
+Staking arrangements that are structured to guarantee a fixed return — regardless of what they are called — are prohibited.
+
+### Are profit-sharing and equity investments allowed?
+
+Yes. GCOSL explicitly permits profit-sharing arrangements, revenue-sharing agreements, equity participation, and dividends based on actual performance. The common requirement is that the capital provider shares in real risk and real outcomes, rather than extracting a guaranteed return regardless of what happens to the borrower.
+
+### Can I build a lending platform?
+
+You may build a lending platform that facilitates interest-free lending or risk-sharing finance. You may not build a platform that facilitates interest-bearing loans, regardless of the rate or the borrower population.
+
+### Can inflation adjustment be applied to loans?
+
+Yes, under strict conditions. Interest-free loans may include repayment adjusted for inflation, but the adjustment must not guarantee profit, must not exceed measured inflation, must not be set at the lender's discretion, and must be based on a transparent, publicly auditable inflation index approved through Gideon governance. Any mechanism that functions as a guaranteed return — regardless of its label — is prohibited.
+
+### Is this anti-capitalist?
+
+No. GCOSL does not oppose capital, enterprise, investment, or commerce. It opposes a specific financial structure: the extraction of guaranteed, risk-free return from the act of lending. The permitted alternatives — profit-sharing, equity participation, revenue-sharing, performance-based dividends — are all forms of capital deployment. They simply require the capital provider to share in the real outcomes of what they fund.
+
+This is not a rejection of markets. It is a constraint on one specific mechanism within markets that GCOSL identifies as inherently exploitative.
+
+---
+
 ## Philosophy
 
 ### Is this anti-technology?

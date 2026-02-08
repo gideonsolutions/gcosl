@@ -84,6 +84,56 @@ Any use intended to facilitate, coordinate, plan, execute, or conceal acts of vi
 ### 4.10 Gambling and Predatory Financial Schemes
 The operation or facilitation of gambling platforms, casinos, sports betting systems, lotteries operated for private profit, Ponzi schemes, pyramid schemes, predatory lending, or any financial system designed to extract wealth through deception, addiction, or exploitation of vulnerable persons.
 
+### 4.11 Usury and Interest-Bearing Lending
+
+#### 4.11.1 Prohibition
+
+The facilitation, operation, management, or support of any system, platform, or service that enables lending money at interest, including but not limited to:
+
+(a) Loans, credit instruments, or debt obligations that guarantee the lender a predetermined return on principal.
+
+(b) Financial arrangements in which the lender bears no risk of loss while the borrower bears all downside risk.
+
+(c) Debt instruments structured to produce risk-free profit for the creditor, regardless of the borrower's outcome.
+
+This prohibition applies regardless of the interest rate charged, regardless of whether the rate is characterized as "low," "reasonable," "market-rate," or "below market," and regardless of the institutional form of the lender — whether bank, credit union, fintech platform, peer-to-peer lending service, or any other entity.
+
+#### 4.11.2 Permitted Financial Activities
+
+The prohibition in Section 4.11.1 does not apply to the following financial arrangements, provided they involve genuine shared risk between the parties:
+
+(a) **Profit-sharing arrangements** — where returns to the capital provider are contingent on actual profits generated and the capital provider bears a real risk of loss.
+
+(b) **Revenue-sharing agreements** — where compensation to the capital provider is a percentage of actual revenue, with no guaranteed minimum return.
+
+(c) **Equity participation** — where the capital provider receives an ownership stake and shares proportionally in both gains and losses.
+
+(d) **Dividends based on actual performance** — where distributions are made from realized earnings, not guaranteed in advance, and subject to the performance of the underlying enterprise.
+
+(e) **Staking or participation in shared-risk security protocols** — where participants commit capital to blockchain validation, decentralized consensus, or equivalent shared-risk mechanisms in which the participant's capital is genuinely at risk and returns are not guaranteed.
+
+#### 4.11.3 Inflation-Adjusted Principal Repayment
+
+Interest-free lending that permits repayment of principal adjusted solely to preserve the real value of the original amount against inflation is permitted, subject to all of the following conditions:
+
+(a) The adjustment must not guarantee profit to the lender. It must preserve purchasing power only.
+
+(b) The adjustment must not exceed the measured rate of inflation for the relevant period.
+
+(c) The adjustment must not be set at the discretion of the lender. It must be determined by reference to a transparent, publicly auditable inflation index.
+
+(d) The inflation index used must be approved by Gideon Solutions LLC through its governance process. An example of an acceptable index is the Truflation on-chain inflation index, but the license does not mandate any single provider. The governing criterion is that the index must be transparent, independently verifiable, and publicly auditable.
+
+(e) Any inflation adjustment mechanism that, in substance, functions as a guaranteed return on capital — regardless of its label — is prohibited.
+
+#### 4.11.4 Ethical Basis
+
+This prohibition is grounded in the historic Christian condemnation of usury: the extraction of guaranteed gain from the mere act of lending, without the lender sharing in the borrower's risk. This principle is attested across Scripture and the Christian theological tradition, from the Mosaic law's prohibition on interest between brethren, to the patristic condemnation of usury as a sin against charity, to the scholastic analysis of just price and just exchange.
+
+GCOSL adopts the position that risk-free extraction of wealth through lending is inherently exploitative, regardless of the rate charged. The permitted alternatives — profit-sharing, equity participation, revenue-sharing, and performance-based returns — reflect a model of finance in which capital providers share in the real outcomes of the ventures they fund. This is consistent with both historical Christian teaching and modern risk-sharing financial models.
+
+This prohibition does not require religious belief. It binds all users of the Software regardless of their convictions.
+
 ---
 
 ## 5. No Exceptions to Prohibited Uses
@@ -112,6 +162,7 @@ This License is grounded in Christian ethical principles, including but not limi
 - The moral obligation to conduct labor and commerce with honesty, fairness, and integrity.
 - The duty to restrain the accumulation and exercise of power over others.
 - The responsibility to refuse complicity in systems of exploitation, oppression, and destruction.
+- The historic Christian condemnation of usury and the conviction that lending must involve shared risk rather than guaranteed extraction from the borrower.
 
 These principles inform the purpose and structure of this License. However, this License does not require religious belief, religious affiliation, or religious practice as a condition of use. Any person or entity that complies with the terms of this License may exercise the rights granted herein, regardless of their religious convictions or lack thereof.
 

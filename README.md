@@ -38,6 +38,7 @@ The following uses are prohibited absolutely, for all users, in all jurisdiction
 - Mass surveillance or population profiling
 - Violence, coercion, or physical harm
 - Gambling or predatory financial schemes
+- Usury or interest-bearing lending (risk-sharing finance such as profit-sharing, equity participation, and performance-based returns is permitted)
 
 These prohibitions have no exceptions. They cannot be circumvented by characterizing use as "research," "defensive," "dual-use," or "where legal." The restrictions apply to everyone, including governments, nonprofits, and academic institutions.
 
