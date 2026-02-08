@@ -6,7 +6,7 @@
 
 ### What is GCOSL?
 
-GCOSL is the Gideon Christian Open Source License. It is a source-available license that permits non-commercial use of the software while reserving all commercial rights to Gideon Solutions LLC and prohibiting specific categories of harmful use.
+GCOSL is the Gideon Christian Open Source License. It is a source-available license that permits non-commercial use of the software while reserving all commercial rights to Gideon Solutions, LLC and prohibiting specific categories of harmful use.
 
 ### Is GCOSL an open-source license?
 
@@ -30,7 +30,7 @@ The distinction is not between academic and non-academic. It is between permitte
 
 Yes. Journalists may use GCOSL-licensed software for reporting, investigation, and publication. Journalism is a non-commercial, public-interest activity in this context.
 
-However, if a media organization is using the software as part of a for-profit commercial product or service, that constitutes commercial use and requires written permission from Gideon Solutions LLC.
+However, if a media organization is using the software as part of a for-profit commercial product or service, that constitutes commercial use and requires written permission from Gideon Solutions, LLC.
 
 ### Is government use allowed?
 
@@ -50,7 +50,7 @@ The same prohibited use restrictions apply. A nonprofit may not use the software
 
 ### Can startups use this software?
 
-A startup is a for-profit entity. Use of GCOSL-licensed software by a startup in its business operations, products, or services constitutes commercial use. Commercial use requires explicit written permission from Gideon Solutions LLC.
+A startup is a for-profit entity. Use of GCOSL-licensed software by a startup in its business operations, products, or services constitutes commercial use. Commercial use requires explicit written permission from Gideon Solutions, LLC.
 
 A founder studying the source code for personal learning is engaged in personal, non-commercial use — that is permitted.
 
@@ -94,15 +94,15 @@ No. The prohibition targets gambling platforms, casinos, sports betting systems,
 
 ### How do I get commercial permission?
 
-Contact Gideon Solutions LLC directly. Commercial licensing requires a written agreement signed by an authorized representative of Gideon Solutions LLC. The agreement must specify the scope, duration, and conditions of the permitted commercial use.
+Contact [Gideon Solutions, LLC](https://www.gideonsolutions.us/) at [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us). Commercial licensing requires a written agreement signed by an authorized representative of Gideon Solutions, LLC. The agreement must specify the scope, duration, and conditions of the permitted commercial use.
 
 ### Can I use this in a SaaS product?
 
-Operating a software-as-a-service product is commercial use. It requires written permission from Gideon Solutions LLC.
+Operating a software-as-a-service product is commercial use. It requires written permission from Gideon Solutions, LLC.
 
 ### Can I use this in internal business tools?
 
-Use of the software in internal operations of a for-profit business constitutes commercial use. It requires written permission from Gideon Solutions LLC.
+Use of the software in internal operations of a for-profit business constitutes commercial use. It requires written permission from Gideon Solutions, LLC.
 
 ---
 
@@ -126,11 +126,11 @@ No. Derivative works of GCOSL-licensed software must be distributed under GCOSL.
 
 ### Can I create my own license based on GCOSL?
 
-Yes, but only with explicit written approval from Gideon Solutions LLC. GCOSL permits the creation of derivative licenses — new license documents that adapt GCOSL for your own organization and software. You must apply in writing and receive signed approval before creating or publishing a Derivative License.
+Yes, but only with explicit written approval from [Gideon Solutions, LLC](https://www.gideonsolutions.us/). GCOSL permits the creation of derivative licenses — new license documents that adapt GCOSL for your own organization and software. You must apply in writing to [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us) and receive signed approval before creating or publishing a Derivative License.
 
 ### What can I change in a Derivative License?
 
-You may replace "Gideon Solutions LLC" with your own organization's name in the commercial use and governance provisions. You may change the governing law and jurisdiction to your own. You may add new terms, conditions, or restrictions. You may choose your own license name, provided it does not use "Gideon," "Gideon Solutions," or "GCOSL" without permission.
+You may replace "Gideon Solutions, LLC" with your own organization's name in the commercial use and governance provisions. You may change the governing law and jurisdiction to your own. You may add new terms, conditions, or restrictions. You may choose your own license name, provided it does not use "Gideon," "Gideon Solutions," or "GCOSL" without permission.
 
 ### What must stay the same?
 
@@ -192,7 +192,7 @@ This is not a rejection of markets. It is a constraint on one specific mechanism
 
 ### Is this anti-technology?
 
-No. GCOSL governs the use of software that Gideon Solutions LLC builds and releases. It is pro-technology in the sense that it encourages the creation and sharing of useful tools. It is restrictive only in the sense that it refuses to permit those tools to be used for purposes that degrade human life.
+No. GCOSL governs the use of software that Gideon Solutions, LLC builds and releases. It is pro-technology in the sense that it encourages the creation and sharing of useful tools. It is restrictive only in the sense that it refuses to permit those tools to be used for purposes that degrade human life.
 
 Restraint is not opposition. Building a bridge with guardrails is not anti-bridge.
 
@@ -210,4 +210,4 @@ Enforceability of specific provisions may vary by jurisdiction, but the license 
 
 ---
 
-**Copyright (c) 2026 Gideon Solutions LLC. All rights reserved.**
+**Copyright (c) 2026 [Gideon Solutions, LLC](https://www.gideonsolutions.us/). All rights reserved.**

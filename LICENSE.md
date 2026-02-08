@@ -2,7 +2,7 @@
 
 **Version 1.0**
 **Effective Date: February 7, 2026**
-**Copyright (c) 2026 Gideon Solutions LLC. All rights reserved.**
+**Copyright (c) 2026 Gideon Solutions, LLC. All rights reserved.**
 
 ---
 
@@ -10,7 +10,7 @@
 
 **"License"** means this Gideon Christian Open Source License, Version 1.0.
 
-**"Licensor"** means Gideon Solutions LLC, the sole copyright holder and licensor of the Software.
+**"Licensor"** means [Gideon Solutions, LLC](https://www.gideonsolutions.us/), the sole copyright holder and licensor of the Software.
 
 **"Software"** means the source code, object code, documentation, configuration files, and all associated materials distributed under this License.
 
@@ -42,9 +42,9 @@ This grant is conditional. Any violation of any term of this License immediately
 
 ## 3. Commercial Use Reservation
 
-All Commercial Use of the Software is exclusively reserved to Gideon Solutions LLC.
+All Commercial Use of the Software is exclusively reserved to Gideon Solutions, LLC.
 
-No person or entity other than Gideon Solutions LLC may engage in Commercial Use of the Software or any Derivative Work unless Gideon Solutions LLC has granted explicit, written permission to that person or entity. Such permission must be signed by an authorized representative of Gideon Solutions LLC and must specifically identify the scope, duration, and conditions of the permitted Commercial Use.
+No person or entity other than Gideon Solutions, LLC may engage in Commercial Use of the Software or any Derivative Work unless Gideon Solutions, LLC has granted explicit, written permission to that person or entity. Such permission must be signed by an authorized representative of Gideon Solutions, LLC and must specifically identify the scope, duration, and conditions of the permitted Commercial Use.
 
 Oral agreements, implied licenses, and informal communications do not constitute written permission under this Section.
 
@@ -122,7 +122,7 @@ Interest-free lending that permits repayment of principal adjusted solely to pre
 
 (c) The adjustment must not be set at the discretion of the lender. It must be determined by reference to a transparent, publicly auditable inflation index.
 
-(d) The inflation index used must be approved by Gideon Solutions LLC through its governance process. An example of an acceptable index is the Truflation on-chain inflation index, but the license does not mandate any single provider. The governing criterion is that the index must be transparent, independently verifiable, and publicly auditable.
+(d) The inflation index used must be approved by Gideon Solutions, LLC through its governance process. An example of an acceptable index is the Truflation on-chain inflation index, but the license does not mandate any single provider. The governing criterion is that the index must be transparent, independently verifiable, and publicly auditable.
 
 (e) Any inflation adjustment mechanism that, in substance, functions as a guaranteed return on capital — regardless of its label — is prohibited.
 
@@ -180,7 +180,7 @@ Any distribution of the Software or a Derivative Work must:
 
 (d) Not misrepresent the origin of the Software or claim authorship of unmodified portions.
 
-(e) Not use the name "Gideon," "Gideon Solutions," or "GCOSL" to endorse or promote Derivative Works without prior written permission from Gideon Solutions LLC.
+(e) Not use the name "Gideon," "Gideon Solutions," or "GCOSL" to endorse or promote Derivative Works without prior written permission from Gideon Solutions, LLC.
 
 ---
 
@@ -224,7 +224,7 @@ This License shall be governed by and construed in accordance with the laws of t
 
 The prohibited use categories enumerated in Section 4 may not be removed, narrowed, weakened, or made subject to exceptions in any future version of this License — including by the Licensor. Future versions of GCOSL may add new prohibited use categories or strengthen existing ones, but may never reduce the scope of any existing prohibition.
 
-This constraint binds Gideon Solutions LLC and any successor, assignee, or acquirer of the rights to this License. Any purported version of GCOSL that removes or weakens a prohibition from a prior version is not a valid version of GCOSL and carries no licensing authority.
+This constraint binds Gideon Solutions, LLC and any successor, assignee, or acquirer of the rights to this License. Any purported version of GCOSL that removes or weakens a prohibition from a prior version is not a valid version of GCOSL and carries no licensing authority.
 
 ---
 
@@ -232,9 +232,9 @@ This constraint binds Gideon Solutions LLC and any successor, assignee, or acqui
 
 ### 14.1 Permission to Create Derivative Licenses
 
-With the prior explicit written approval of Gideon Solutions LLC, a person or entity may create a derivative license based on GCOSL (a "Derivative License") for use in their own software projects and business operations. No Derivative License may be created, published, or applied to any software without such approval.
+With the prior explicit written approval of Gideon Solutions, LLC, a person or entity may create a derivative license based on GCOSL (a "Derivative License") for use in their own software projects and business operations. No Derivative License may be created, published, or applied to any software without such approval.
 
-Approval must be granted in writing by an authorized representative of Gideon Solutions LLC and must specifically identify the person or entity authorized, the scope of the Derivative License, and any conditions imposed. Oral agreements, implied permissions, and informal communications do not constitute approval under this Section.
+Approval must be granted in writing by an authorized representative of Gideon Solutions, LLC and must specifically identify the person or entity authorized, the scope of the Derivative License, and any conditions imposed. Oral agreements, implied permissions, and informal communications do not constitute approval under this Section.
 
 ### 14.2 Mandatory Prohibition Floor
 
@@ -258,35 +258,39 @@ Any Derivative License that fails to satisfy this Section is not a valid Derivat
 
 Subject to Sections 14.1 and 14.2, an approved Derivative License may:
 
-(a) Replace "Gideon Solutions LLC" with the name of the derivative licensor's own organization in the commercial use reservation and governance provisions.
+(a) Replace "Gideon Solutions, LLC" with the name of the derivative licensor's own organization in the commercial use reservation and governance provisions.
 
 (b) Modify the governing law and jurisdiction provisions in Section 12 to reflect the derivative licensor's own jurisdiction.
 
 (c) Add new terms, conditions, or restrictions not inconsistent with the terms of this License.
 
-(d) Choose its own name, provided it does not use the names "Gideon," "Gideon Solutions," or "GCOSL" without prior written permission from Gideon Solutions LLC.
+(d) Choose its own name, provided it does not use the names "Gideon," "Gideon Solutions," or "GCOSL" without prior written permission from Gideon Solutions, LLC.
 
 ### 14.4 Attribution Requirement
 
 Every Derivative License must include the following attribution notice in a prominent location within the license text:
 
-> This license is derived from the Gideon Christian Open Source License (GCOSL), originally created by Gideon Solutions LLC. The original GCOSL is available at: https://github.com/gideonsolutions/gcosl
+> This license is derived from the Gideon Christian Open Source License (GCOSL), originally created by Gideon Solutions, LLC. The original GCOSL is available at: https://github.com/gideonsolutions/gcosl
 
 ### 14.5 No Endorsement
 
-The creation of a Derivative License does not imply endorsement, approval of the derivative licensor's products or services, affiliation, or partnership with Gideon Solutions LLC. Gideon Solutions LLC bears no responsibility for the terms, enforcement, or interpretation of any Derivative License beyond the mandatory requirements of this Section.
+The creation of a Derivative License does not imply endorsement, approval of the derivative licensor's products or services, affiliation, or partnership with Gideon Solutions, LLC. Gideon Solutions, LLC bears no responsibility for the terms, enforcement, or interpretation of any Derivative License beyond the mandatory requirements of this Section.
 
 ### 14.6 Revocation
 
-Gideon Solutions LLC reserves the right to revoke approval of a Derivative License if the derivative licensor violates the conditions of approval or publishes a Derivative License that fails to comply with Section 14.2. Revocation must be communicated in writing. Upon revocation, the derivative licensor must cease publishing or applying the Derivative License to new software, though existing software already distributed under a compliant Derivative License prior to revocation is not retroactively affected.
+Gideon Solutions, LLC reserves the right to revoke approval of a Derivative License if the derivative licensor violates the conditions of approval or publishes a Derivative License that fails to comply with Section 14.2. Revocation must be communicated in writing. Upon revocation, the derivative licensor must cease publishing or applying the Derivative License to new software, though existing software already distributed under a compliant Derivative License prior to revocation is not retroactively affected.
 
 ---
 
 ## 15. Entire Agreement
 
-This License constitutes the entire agreement between the Licensor and You with respect to the Software. No modification of this License shall be binding unless made in writing and signed by an authorized representative of Gideon Solutions LLC.
+This License constitutes the entire agreement between the Licensor and You with respect to the Software. No modification of this License shall be binding unless made in writing and signed by an authorized representative of Gideon Solutions, LLC.
 
 ---
 
-**Gideon Solutions LLC**
+**[Gideon Solutions, LLC](https://www.gideonsolutions.us/)**
 **All rights reserved.**
+
+**Contact:** [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us)
+
+**Permaweb:** The canonical text of this license is permanently stored on the permaweb via [Arweave](https://arweave.org). Available on [ArDrive](https://app.ardrive.io/#/drives/7450f3ed-0bf7-4004-890a-12d4ed485a39?name=gcosl).

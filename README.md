@@ -2,7 +2,7 @@
 
 ## What This Is
 
-GCOSL is a source-available software license created by Gideon Solutions LLC. It governs how software released by Gideon may be used, modified, and distributed.
+GCOSL is a source-available software license created by [Gideon Solutions, LLC](https://www.gideonsolutions.us/). It governs how software released by Gideon may be used, modified, and distributed.
 
 This repository contains the license text itself and its supporting documentation. It is not a product. It is the legal and ethical foundation that Gideon software references.
 
@@ -22,7 +22,7 @@ This is intentional. GCOSL places moral and legal boundaries on how software may
 
 ## What GCOSL Reserves
 
-All commercial use is reserved exclusively to Gideon Solutions LLC. If you want to use GCOSL-licensed software commercially, you need explicit written permission from Gideon Solutions LLC.
+All commercial use is reserved exclusively to Gideon Solutions, LLC. If you want to use GCOSL-licensed software commercially, you need explicit written permission from Gideon Solutions, LLC.
 
 ## What GCOSL Prohibits
 
@@ -52,11 +52,11 @@ This is not a political statement. It is a structural decision about what kind o
 
 ## Derivative Licenses
 
-GCOSL encourages fellow Christians and like-minded organizations to build on this ethical foundation for their own software and businesses. With explicit written approval from Gideon Solutions LLC, you may create a derivative license based on GCOSL that names your own organization and adapts the commercial and jurisdictional terms to your context.
+GCOSL encourages fellow Christians and like-minded organizations to build on this ethical foundation for their own software and businesses. With explicit written approval from Gideon Solutions, LLC, you may create a derivative license based on GCOSL that names your own organization and adapts the commercial and jurisdictional terms to your context.
 
 The one non-negotiable requirement: **every prohibition in GCOSL must be preserved at full strength.** You may add new restrictions or strengthen existing ones, but you may never weaken, remove, or create exceptions to any prohibited use category. See Section 14 of the license for the full terms.
 
-To request approval for a Derivative License, contact Gideon Solutions LLC.
+To request approval for a Derivative License, contact [Gideon Solutions, LLC](https://www.gideonsolutions.us/) at [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us).
 
 ## Repository Contents
 
@@ -66,10 +66,16 @@ To request approval for a Derivative License, contact Gideon Solutions LLC.
 | [GOVERNANCE.md](GOVERNANCE.md) | How GCOSL is maintained and who may modify it |
 | [FAQ.md](FAQ.md) | Answers to common questions about permitted and prohibited uses |
 
+## Permaweb
+
+The canonical text of GCOSL is permanently stored on the permaweb via [Arweave](https://arweave.org), ensuring that the license text remains immutable, publicly accessible, and independently verifiable in perpetuity. The license is available on ArDrive at:
+
+[https://app.ardrive.io/#/drives/7450f3ed-0bf7-4004-890a-12d4ed485a39?name=gcosl](https://app.ardrive.io/#/drives/7450f3ed-0bf7-4004-890a-12d4ed485a39?name=gcosl)
+
 ## Contact
 
-For commercial licensing inquiries or questions about permitted use, contact Gideon Solutions LLC.
+For commercial licensing inquiries, derivative license requests, or questions about permitted use, contact [Gideon Solutions, LLC](https://www.gideonsolutions.us/) at [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us).
 
 ---
 
-**Copyright (c) 2026 Gideon Solutions LLC. All rights reserved.**
+**Copyright (c) 2026 [Gideon Solutions, LLC](https://www.gideonsolutions.us/). All rights reserved.**

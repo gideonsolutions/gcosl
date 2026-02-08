@@ -12,13 +12,13 @@ GCOSL is designed for stability. It is not a living document that shifts with tr
 
 ### Sole Maintainer
 
-Gideon Solutions LLC is the sole maintainer and copyright holder of GCOSL. All authority to modify, version, interpret, or retire the license rests exclusively with Gideon Solutions LLC.
+[Gideon Solutions, LLC](https://www.gideonsolutions.us/) is the sole maintainer and copyright holder of GCOSL. All authority to modify, version, interpret, or retire the license rests exclusively with Gideon Solutions, LLC.
 
 No external organization, standards body, open-source foundation, or community vote may alter the terms of GCOSL.
 
 ### Authorized Representatives
 
-Only individuals explicitly authorized in writing by Gideon Solutions LLC may propose, draft, or approve changes to GCOSL. Authorization is not transferable and may be revoked at any time.
+Only individuals explicitly authorized in writing by Gideon Solutions, LLC may propose, draft, or approve changes to GCOSL. Authorization is not transferable and may be revoked at any time.
 
 ---
 
@@ -28,7 +28,7 @@ Only individuals explicitly authorized in writing by Gideon Solutions LLC may pr
 
 Every prohibition in GCOSL exists by design. The prohibited use categories in Section 4 of the license were not drafted carelessly or included as defaults. They reflect deliberate moral commitments.
 
-No party — including Gideon Solutions LLC itself — may remove, narrow, weaken, or introduce exceptions to any existing prohibition. Future versions of GCOSL may add new prohibited use categories or strengthen existing ones, but may never reduce the scope of any prohibition present in a prior version. This constraint is structural and irrevocable. It survives any change of ownership, acquisition, or reorganization of Gideon Solutions LLC.
+No party — including Gideon Solutions, LLC itself — may remove, narrow, weaken, or introduce exceptions to any existing prohibition. Future versions of GCOSL may add new prohibited use categories or strengthen existing ones, but may never reduce the scope of any prohibition present in a prior version. This constraint is structural and irrevocable. It survives any change of ownership, acquisition, or reorganization of Gideon Solutions, LLC.
 
 ### 2. Stability Over Responsiveness
 
@@ -46,11 +46,11 @@ If a third party forks a GCOSL-licensed project and removes or modifies the lice
 
 ### 5. Derivative Licenses Under Approval
 
-GCOSL permits the creation of derivative licenses — new license documents based on GCOSL — for use by other organizations in their own software. This is governed by Section 14 of the license and requires explicit written approval from Gideon Solutions LLC.
+GCOSL permits the creation of derivative licenses — new license documents based on GCOSL — for use by other organizations in their own software. This is governed by Section 14 of the license and requires explicit written approval from Gideon Solutions, LLC.
 
 The governing constraint is the mandatory prohibition floor: every prohibited use category in Section 4 must be preserved at full scope and strength in any Derivative License. Derivative licensors may add new prohibitions or strengthen existing ones, but may never weaken, remove, or create exceptions to any existing prohibition.
 
-Gideon Solutions LLC reviews all Derivative License applications and reserves the right to deny approval or revoke it if the conditions are violated. This process exists to encourage the broader Christian community to build on GCOSL's ethical foundation while ensuring that foundation is never compromised.
+Gideon Solutions, LLC reviews all Derivative License applications and reserves the right to deny approval or revoke it if the conditions are violated. This process exists to encourage the broader Christian community to build on GCOSL's ethical foundation while ensuring that foundation is never compromised.
 
 ### 6. Transparency of Changes
 
@@ -67,11 +67,11 @@ Changes will not be made silently or retroactively.
 
 ## Amendment Process
 
-1. **Proposal.** A proposed change must be submitted in writing to an authorized representative of Gideon Solutions LLC. The proposal must state the specific language to be changed and the reason for the change.
+1. **Proposal.** A proposed change must be submitted in writing to an authorized representative of Gideon Solutions, LLC at [ian@gideonsolutions.us](mailto:ian@gideonsolutions.us). The proposal must state the specific language to be changed and the reason for the change.
 
-2. **Review.** The proposal will be reviewed by Gideon Solutions LLC. There is no fixed timeline for review. Review may include consultation with legal counsel, ethical advisors, or other parties at the sole discretion of Gideon Solutions LLC.
+2. **Review.** The proposal will be reviewed by Gideon Solutions, LLC. There is no fixed timeline for review. Review may include consultation with legal counsel, ethical advisors, or other parties at the sole discretion of Gideon Solutions, LLC.
 
-3. **Decision.** Gideon Solutions LLC will accept, reject, or modify the proposal. The decision is final and not subject to appeal.
+3. **Decision.** Gideon Solutions, LLC will accept, reject, or modify the proposal. The decision is final and not subject to appeal.
 
 4. **Publication.** Accepted changes will be published as a new version of GCOSL with accompanying documentation as described above.
 
@@ -81,11 +81,11 @@ Changes will not be made silently or retroactively.
 
 - It does not create a committee, board, or external review body.
 - It does not grant any external party veto power over license changes.
-- It does not obligate Gideon Solutions LLC to accept contributions, feedback, or amendments from any source.
+- It does not obligate Gideon Solutions, LLC to accept contributions, feedback, or amendments from any source.
 - It does not establish a democratic or consensus-based process for license modification.
 
 GCOSL is maintained by its creator. This is not a weakness. It is a safeguard against dilution.
 
 ---
 
-**Copyright (c) 2026 Gideon Solutions LLC. All rights reserved.**
+**Copyright (c) 2026 [Gideon Solutions, LLC](https://www.gideonsolutions.us/). All rights reserved.**
