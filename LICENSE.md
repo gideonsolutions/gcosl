@@ -169,7 +169,15 @@ This License shall be governed by and construed in accordance with the laws of t
 
 ---
 
-## 13. Entire Agreement
+## 13. Irreversibility of Prohibitions
+
+The prohibited use categories enumerated in Section 4 may not be removed, narrowed, weakened, or made subject to exceptions in any future version of this License — including by the Licensor. Future versions of GCOSL may add new prohibited use categories or strengthen existing ones, but may never reduce the scope of any existing prohibition.
+
+This constraint binds Gideon Solutions LLC and any successor, assignee, or acquirer of the rights to this License. Any purported version of GCOSL that removes or weakens a prohibition from a prior version is not a valid version of GCOSL and carries no licensing authority.
+
+---
+
+## 14. Entire Agreement
 
 This License constitutes the entire agreement between the Licensor and You with respect to the Software. No modification of this License shall be binding unless made in writing and signed by an authorized representative of Gideon Solutions LLC.
 

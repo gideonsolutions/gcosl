@@ -28,7 +28,7 @@ Only individuals explicitly authorized in writing by Gideon Solutions LLC may pr
 
 Every prohibition in GCOSL exists by design. The prohibited use categories in Section 4 of the license were not drafted carelessly or included as defaults. They reflect deliberate moral commitments.
 
-Any proposal to narrow, soften, qualify, or remove a prohibition carries the burden of proof. The default answer to "Can we weaken this restriction?" is no.
+No party — including Gideon Solutions LLC itself — may remove, narrow, weaken, or introduce exceptions to any existing prohibition. Future versions of GCOSL may add new prohibited use categories or strengthen existing ones, but may never reduce the scope of any prohibition present in a prior version. This constraint is structural and irrevocable. It survives any change of ownership, acquisition, or reorganization of Gideon Solutions LLC.
 
 ### 2. Stability Over Responsiveness
 
