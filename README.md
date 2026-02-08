@@ -70,7 +70,7 @@ To request approval for a Derivative License, contact [Gideon Solutions, LLC](ht
 
 The canonical text of GCOSL is permanently stored on the permaweb via [Arweave](https://arweave.org), ensuring that the license text remains immutable, publicly accessible, and independently verifiable in perpetuity. The license is available on ArDrive at:
 
-[https://app.ardrive.io/#/drives/b30912b8-faad-4481-8834-23ef07aefa6a?name=gcosl](https://app.ardrive.io/#/drives/b30912b8-faad-4481-8834-23ef07aefa6a?name=gcosl)
+[https://app.ardrive.io/#/drives/b30912b8-faad-4481-8834-23ef07aefa6a?name=gcosl-1.0](https://app.ardrive.io/#/drives/b30912b8-faad-4481-8834-23ef07aefa6a?name=gcosl-1.0)
 
 ## Contact
 
